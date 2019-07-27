@@ -1,0 +1,84 @@
+{
+	"currentUser": {
+		"profile_info": {
+			"id": 8650838,
+			"username": "moosebot",
+			"name": "Austin Valle",
+			"bio": "I design and build software.",
+			"avatar_url": "https://avatars2.githubusercontent.com/u/8650838?v=4",
+			"profile_url": "https://github.com/moosebot",
+			"public_repos": 16,
+			"date_joined": "2014-09-04T03:49:58Z",
+			"followers": 9,
+			"following": 36
+		},
+		"latest_repo": {
+			"id": 111176165,
+			"name": "hammy",
+			"repo_url": "https://github.com/moosebot/hammy",
+			"description": "music streaming bot for discord",
+			"language": "TypeScript"
+		},
+		"last_commit": {
+			"sha": "e957ad94e00c67586dfa57f81a1e1682d42a17ec",
+			"author": "moosebot",
+			"date": "2019-07-21T07:58:56Z",
+			"message": "switched to using node-alpine to reduce image size",
+			"url": "https://api.github.com/repos/moosebot/hammy/git/commits/e957ad94e00c67586dfa57f81a1e1682d42a17ec"
+		},
+		"following": {
+			"42211": {
+				"username": "brandonroberts",
+				"avatar_url": "https://avatars3.githubusercontent.com/u/42211?v=4",
+				"profile_url": "https://github.com/brandonroberts"
+			},
+			"69842": {
+				"username": "JeffryGonzalez",
+				"avatar_url": "https://avatars2.githubusercontent.com/u/69842?v=4",
+				"profile_url": "https://github.com/JeffryGonzalez"
+			},
+			"129061": {
+				"username": "wardbell",
+				"avatar_url": "https://avatars1.githubusercontent.com/u/129061?v=4",
+				"profile_url": "https://github.com/wardbell"
+			},
+			"1202528": {
+				"username": "johnpapa",
+				"avatar_url": "https://avatars2.githubusercontent.com/u/1202528?v=4",
+				"profile_url": "https://github.com/johnpapa"
+			},
+			"1565117": {
+				"username": "Brocco",
+				"avatar_url": "https://avatars0.githubusercontent.com/u/1565117?v=4",
+				"profile_url": "https://github.com/Brocco"
+			}
+		},
+		"followers": {
+			"5957611": {
+				"username": "kbuechl",
+				"avatar_url": "https://avatars2.githubusercontent.com/u/5957611?v=4",
+				"profile_url": "https://github.com/kbuechl"
+			},
+			"7011346": {
+				"username": "cakebear",
+				"avatar_url": "https://avatars2.githubusercontent.com/u/7011346?v=4",
+				"profile_url": "https://github.com/cakebear"
+			},
+			"129061": {
+				"username": "robbythedude",
+				"avatar_url": "https://avatars3.githubusercontent.com/u/740428?v=4",
+				"profile_url": "https://github.com/robbythedude"
+			},
+			"31525899": {
+				"username": "GRasicci",
+				"avatar_url": "https://avatars0.githubusercontent.com/u/31525899?v=4",
+				"profile_url": "https://github.com/GRasicci"
+			},
+			"1848562": {
+				"username": "CJRobin",
+				"avatar_url": "https://avatars0.githubusercontent.com/u/1848562?v=4",
+				"profile_url": "https://github.com/CJRobin"
+			}
+		}
+	}
+}
