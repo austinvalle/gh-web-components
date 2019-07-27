@@ -1,7 +1,7 @@
 # web-components
 
 ## The goal
-> I'm aiming to build a simple application that allows you to type in a github username and fetch information about that user. Different parts of the application will be built with different web component libraries, but all will have similar functions that include interacting with a global redux store to share data/interactions.
+> Build a simple application that allows you to type in a github username and fetch information about that user. Different parts of the application will be built with different web component libraries, but all will have similar functions that include interacting with a global redux store to share data/interactions.
 
 ### Components
 #### Main user profile

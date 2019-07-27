@@ -1,0 +1,12 @@
+{
+	"name": "gh-web-components",
+	"version": "1.0.0",
+	"description": "researching different implementations of web components",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/moosebot/gh-web-components.git"
+	},
+	"author": "moosebot",
+	"license": "MIT"
+}
